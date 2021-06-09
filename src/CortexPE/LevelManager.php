@@ -55,7 +55,7 @@ class LevelManager {
 	private static function registerGenerators(){
 		Main::getPluginLogger()->debug("Registering Generators...");
 		if(Main::$registerDimensions){
-			GeneratorManager::addGenerator(Ender::class, "ender");
+			GeneratorManager::addGenerator(Ender::class, "end");
 		}
 	}
 
@@ -69,7 +69,7 @@ class LevelManager {
 
 
 			if(!PMServer::getInstance()->loadLevel(Main::$endName)){
-				PMServer::getInstance()->generateLevel(Main::$endName, time(), GeneratorManager::getGenerator("ender"));
+				PMServer::getInstance()->generateLevel(Main::$endName, time(), GeneratorManager::getGenerator("end"));
 			}
 			Main::$endLevel = PMServer::getInstance()->getLevelByName(Main::$endName);
 		}
