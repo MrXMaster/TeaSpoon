@@ -1,4 +1,4 @@
-<h1>TeaSpoon<img src="https://raw.githubusercontent.com/CortexPE/stuff/master/TeaSpoonLogo.png" height="64" width="64" align="left"></img></h1>
+<h1>TeaSpoon Fork<img src="https://raw.githubusercontent.com/CortexPE/stuff/master/TeaSpoonLogo.png" height="64" width="64" align="left"></img></h1>
 <br />
 
 [![Poggit](https://poggit.pmmp.io/ci.shield/CortexPE/TeaSpoon/~)](https://poggit.pmmp.io/ci/CortexPE/TeaSpoon/~) [![Donate](https://img.shields.io/badge/donate-PayPal-yellow.svg?style=flat-square)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MABFZPDR8F5UG) [![HitCount](http://hits.dwyl.io/CortexPE/TeaSpoon.svg)](http://hits.dwyl.io/CortexPE/TeaSpoon) [![License](https://img.shields.io/badge/license-AGPL%20v3-blue.svg?style=flat-square)](https://github.com/CortexPE/TeaSpoon/blob/master/LICENSE) [![Discord](https://img.shields.io/discord/350333413737365522.svg?style=flat-square&label=discord&colorB=7289da)](https://discord.gg/t5NsTyj)
@@ -11,16 +11,10 @@ A/N: If you don't like it / hate it, Then don't even bother using it. It's that 
 
 Contributions are very welcome :smile:<br />You may contribute by opening a Pull Request and if it has been proven to be correct & working, I'll surely merge it.
 
-__[Discord Group to 'talk-to-a-human-for-support' and for questions](https://discord.gg/t5NsTyj)__
-
-# Keep the project alive!
-<p align="center"><strong>Big thanks to RedCraftGH for supporting the project :smile:</strong></p>
-
-
-Help keep me motivated into making this massive thing... Maintaining it is sometimes a pain and I only find it a waste of time to update something I don't get anything in return for :/ I hope you all can understand. You can donate here: [![Donate](https://img.shields.io/badge/donate-PayPal-yellow.svg?style=flat-square)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MABFZPDR8F5UG)
+Important: I won't add anything as I just wanted to help fix a bug but CortexPE has the plugin archived
 
 # Installation
-Installation is easy, Just download the latest phar from [Poggit](https://poggit.pmmp.io/ci/CortexPE/TeaSpoon/~) then put it to your ```./plugins/``` folder. Restart your server. And you're basically done.
+Installation is easy, Just download the latest phar from [Poggit](https://poggit.pmmp.io/ci/MrXMaster/TeaSpoon/~) then put it to your ```./plugins/``` folder. Restart your server. And you're basically done.
 ***This plugin will only work on stable PMMP releases, Any issues regarding 4.0.0 (development builds) will be closed***
 
 # Issue Reporting
@@ -140,4 +134,4 @@ Installation is easy, Just download the latest phar from [Poggit](https://poggit
    - [X] Swimming
  - Utils
    - [X] TextFormat::center like PC or MiNET. (Credits: [Turanic](https://github.com/TuranicTeam/Turanic))
-<br />***More to do...***
+<br />***I just fix an error, forked from CortexPE***
