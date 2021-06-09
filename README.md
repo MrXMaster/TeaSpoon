@@ -1,7 +1,7 @@
 <h1>TeaSpoon Fork<img src="https://raw.githubusercontent.com/CortexPE/stuff/master/TeaSpoonLogo.png" height="64" width="64" align="left"></img></h1>
 <br />
 
-[![Poggit](https://poggit.pmmp.io/ci.shield/CortexPE/TeaSpoon/~)](https://poggit.pmmp.io/ci/CortexPE/TeaSpoon/~) [![License](https://img.shields.io/badge/license-AGPL%20v3-blue.svg?style=flat-square)](https://github.com/CortexPE/TeaSpoon/blob/master/LICENSE)
+[![Poggit](https://poggit.pmmp.io/ci.shield/MrXMaster/TeaSpoon/~)](https://poggit.pmmp.io/ci/MrXMaster/TeaSpoon/~) [![License](https://img.shields.io/badge/license-AGPL%20v3-blue.svg?style=flat-square)](https://github.com/CortexPE/TeaSpoon/blob/master/LICENSE)
 
 **This plugin neither belongs to me nor is it mine, it is just a fork of the TeaSpoon created by CortexPE**
 
@@ -30,7 +30,7 @@ Installation is not exactly easy, first download the latest version of [DevTools
 ### MobAI:
 &nbsp;&nbsp;&nbsp;&nbsp;For now, you can use [PureEntitiesX](https://github.com/RevivalPMMP/PureEntitiesX) while disabling ```entities.register``` in TeaSpoon's Configuration File.
 ### Redstone System:
-Use this [plugin](https://poggit.pmmp.io/ci/tedo0627/RedstoneCircuit_PMMP-Plugin/RedstoneCircuit),it works for me
+Use this [plugin](https://poggit.pmmp.io/ci/tedo0627/RedstoneCircuit_PMMP-Plugin/RedstoneCircuit), it works for me
 
 # Finished & Planned Features
  - Worlds
