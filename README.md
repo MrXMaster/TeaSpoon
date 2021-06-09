@@ -11,7 +11,7 @@ A/N: If you don't like it / hate it, Then don't even bother using it. It's that 
 
 Contributions are very welcome :smile:<br />You may contribute by opening a Pull Request and if it has been proven to be correct & working, I'll surely merge it.
 
-Important: I won't add anything as I just wanted to help fix a bug but CortexPE has the plugin archived
+**Important: I won't add anything as I just wanted to help fix a bug but CortexPE has the plugin archived**
 
 # Installation
 Installation is easy, Just download the latest phar from [Poggit](https://poggit.pmmp.io/ci/MrXMaster/TeaSpoon/~) then put it to your ```./plugins/``` folder. Restart your server. And you're basically done.
@@ -28,9 +28,7 @@ Installation is easy, Just download the latest phar from [Poggit](https://poggit
 ### MobAI:
 &nbsp;&nbsp;&nbsp;&nbsp;For now, you can use [PureEntitiesX](https://github.com/RevivalPMMP/PureEntitiesX) while disabling ```entities.register``` in TeaSpoon's Configuration File.
 ### Redstone System:
-&nbsp;&nbsp;&nbsp;&nbsp;Being worked on... :wink:
-
-***[Read More...](https://github.com/CortexPE/TeaSpoon/wiki#faqs)***
+Use this [plugin](https://poggit.pmmp.io/ci/tedo0627/RedstoneCircuit_PMMP-Plugin/RedstoneCircuit),it works for me
 
 # Finished & Planned Features
  - Worlds
