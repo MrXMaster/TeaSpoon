@@ -16,7 +16,7 @@ Contributions are very welcome :smile:<br />You may contribute by opening a Pull
 **Important: I won't add anything as I just wanted to help fix a bug but CortexPE has the plugin archived**
 
 # Installation
-Installation is not easy, first download the latest version of [DevTools](https://poggit.pmmp.io/p/DevTools/1.14.2), now download the TeaSpoon.rar file that is in the Releases section then unarchive it and put the TeaSpoon folder in your ```./plugins/``` folder. Restart your server. And you're basically done.
+Installation is not exactly easy, first download the latest version of [DevTools](https://poggit.pmmp.io/p/DevTools/1.14.2), now download the TeaSpoon.rar file that is in the Releases section then unarchive it and put the TeaSpoon folder in your ```./plugins/``` folder. Restart your server. And you're basically done.
 ***This plugin will only work on stable PMMP releases, Any issues regarding 4.0.0 (development builds) will be closed***
 
 # Issue Reporting
